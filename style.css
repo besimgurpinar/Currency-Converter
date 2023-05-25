@@ -1,0 +1,29 @@
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.from-currency, .to-currency {
+  display: flex;
+  justify-content: space-between;
+}
+
+.amount {
+  margin-top: 10px;
+}
+
+.convert {
+  margin-top: 10px;
+}
+
+.result {
+  margin-top: 10px;
+}
+
+#result {
+  font-size: 24px;
+}
